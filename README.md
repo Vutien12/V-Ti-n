@@ -35,4 +35,4 @@ Hãy xem những nội dung này và nhiều nội dung khác trên [GitHub Repo
 ### 🎯 Mục tiêu sắp tới
 1. Tiếp tục học các công nghệ mới như **ReactJS**, **Next.js**, và **Vue.js**.
 2. Nghiên cứu sâu hơn về tối ưu hóa cơ sở dữ liệu SQL và NoSQL.
-3. Tìm được vị trí thực tập mình mong muốn, tiếp xúc vào các dự án thực tế để có thêm kinh nghiệm
+3. Tiếp xúc vào các dự án thực tế để có thêm kinh nghiệm
